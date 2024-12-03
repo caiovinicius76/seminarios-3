@@ -38,6 +38,7 @@ function exibirNotasTroco(troco) {
                 notaImg.src = `nota${nota}.png`; // Ajuste do caminho
                 notaImg.alt = `Nota de R$ ${nota}`;
                 containerNotas.appendChild(notaImg);
+                // Boaa
             }
         }
     }
